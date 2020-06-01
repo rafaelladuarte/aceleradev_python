@@ -1,0 +1,5 @@
+{
+  "test_main-copia.py": true,
+  "test_main.py::test_get_temperature_by_lat_lng": true,
+  "test_main_copia.py::test_get_temperature_by_lat_lng": true
+}
