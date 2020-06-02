@@ -43,6 +43,12 @@ Desafio de programação orientada a testes
 - Pytest
 - MonkeyPact
 ### Modulo 4
+Desafio sobre Backend Skills
+- Protocolos de comunicação (HTTP, TCP, UDP, SOCKET)
+- Conceitos básicos de arquitetura distribuída
+- Conceitos básicos sobre segurança em APIs e aplicações web.
+- Autenticação
+- Tokens JWT
 ### Modulo 5
 ### Modulo 6
 ### Modulo 7
