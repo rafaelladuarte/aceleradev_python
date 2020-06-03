@@ -6,3 +6,4 @@ class TestChallenge4:
 
     def test_create_token(self):
         assert create_token({"language": "Python"}, "acelera") == self.token
+

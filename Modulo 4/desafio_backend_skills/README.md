@@ -4,7 +4,7 @@
  independente de transmitir com segurança informações entre as partes como um objeto JSON. 
  Essas informações podem ser verificadas e confiáveis ​​porque são assinadas digitalmente. 
  As JWTs podem ser assinadas usando um segredo (com o algoritmo HMAC) ou um par de chaves 
- pública / privada usando RSA ou ECDSA. 
+ pública / privada usando RSA ou ECDSA.  
  
  Complete a funções para rertornar um json web token, gerado usando o algoritmo HS256, que contenha a seguinte informação **{"language": "Python"}**,
  com a palavra secreta **acelera**, complete a função para decifrar as informações tratando a exceção de quando a assinatura for inválida
