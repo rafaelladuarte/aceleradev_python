@@ -42,7 +42,7 @@ a tecnologia abordada referiu-se ao desenvolvivento Backend em Python.
 - Mock
 - Pytest
 - MonkeyPact
-### [Modulo 4](https://github.com/elladarte/AceleraDev_Python/tree/master/Modulo%204)
+### [Modulo 4](https://github.com/elladarte/AceleraDev_Python/tree/master/Modulo%204) :heavy_check_mark:
 [Desafio sobre Backend Skills](https://github.com/elladarte/AceleraDev_Python/tree/master/Modulo%204/desafio_backend_skills)
 - Protocolos de comunicação (HTTP, TCP, UDP, SOCKET)
 - Conceitos básicos de arquitetura distribuída
