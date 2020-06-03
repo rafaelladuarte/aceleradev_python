@@ -2,8 +2,11 @@ import jwt
 
 
 def create_token(data, secret):
-    raise NotImplementedError()
+    return jwt.encode(data, secret, algorithm='HS256')
 
 
 def verify_signature(token):
-    raise NotImplementedError()
+    try:
+        return jwt.decode(token, 'acelera', algorithms=['HS256'])
+    except jwt.InvalidSignatureError:
+        return {'error': 2}
