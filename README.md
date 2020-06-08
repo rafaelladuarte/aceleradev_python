@@ -13,7 +13,7 @@
 uma empresa apoiadora que oferece bolsas de estudos. O programa é dividido em módulos semanais dentro da plataforma. 
 Os módulos contem aulas, conteúdos na plataforma, desafios e desenvolvimento do projeto prático ao longo das semanas.
 
-Para ser contemplada com a bolsa de estudo, tive que realizar um desafio de seleção e atinjir o desempenho mínimo 
+Para ser contemplada com a bolsa de estudo, tive que realizar um desafio de seleção e atingir o desempenho mínimo 
 (100%) e passar à etapa de entrevistas. Essa aceleração na qual participei, teve a duração de 10 semanas,
 a tecnologia abordada referiu-se ao desenvolvivento Backend em Python.
 
@@ -49,7 +49,7 @@ a tecnologia abordada referiu-se ao desenvolvivento Backend em Python.
 - Conceitos básicos sobre segurança em APIs e aplicações web.
 - Autenticação
 - Tokens JWT
-### Modulo 5
+### [Modulo 5](https://github.com/elladarte/AceleraDev_Python/tree/master/Modulo%205)
 ### Modulo 6
 ### Modulo 7
 ### Modulo 8
