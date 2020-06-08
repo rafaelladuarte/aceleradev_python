@@ -19,31 +19,31 @@ a tecnologia abordada referiu-se ao desenvolvivento Backend em Python.
 
 ## Lista de Conteudos abordados
 
-### [Desafio de Seleção](https://github.com/elladarte/AceleraDev_Python_Codenation/tree/master/Desafio%20de%20Sele%C3%A7%C3%A3o) :heavy_check_mark:
+### [Desafio de Seleção](https://github.com/elladarte/AceleraDev_Python/tree/master/Desafio%20de%20Selecao) :heavy_check_mark:
 - Lógica
 - Json
 - Hashlib
-### [Modulo 1](https://github.com/elladarte/AceleraDev_Python_Codenation/tree/master/Modulo%201) :heavy_check_mark:
-Desafio programação funcional
+### [Modulo 1](https://github.com/elladarte/AceleraDev_Python/tree/master/Modulo%201) :heavy_check_mark:
+[Desafio programação funcional](https://github.com/elladarte/AceleraDev_Python/tree/master/Modulo%201/desafio-programacao-funcional)
 - Estrutura de Dados
 - Logica de Programação
 - Python
 - PEP8
-### [Modulo 2](https://github.com/elladarte/AceleraDev_Python_Codenation/tree/master/Modulo%202) :heavy_check_mark:
-Desafio de programação orientada a objetos 
+### [Modulo 2](https://github.com/elladarte/AceleraDev_Python/tree/master/Modulo%202) :heavy_check_mark:
+[Desafio de programação orientada a objetos](https://github.com/elladarte/AceleraDev_Python/tree/master/Modulo%202/desafio-poo) 
 - Herança
 - Composição
 - Métodos de Classe
 - Métodos de Instância
 - Métodos estáticos
-### [Modulo 3](https://github.com/elladarte/AceleraDev_Python_Codenation/tree/master/Modulo%203) :heavy_check_mark:
-Desafio de programação orientada a testes
+### [Modulo 3](https://github.com/elladarte/AceleraDev_Python/tree/master/Modulo%203) :heavy_check_mark:
+[Desafio de programação orientada a testes](https://github.com/elladarte/AceleraDev_Python/tree/master/Modulo%203/desafio_programacao_orientada_testes)
 - Testes unitários
 - Mock
 - Pytest
 - MonkeyPact
-### Modulo 4
-Desafio sobre Backend Skills
+### [Modulo 4](https://github.com/elladarte/AceleraDev_Python/tree/master/Modulo%204) :heavy_check_mark:
+[Desafio sobre Backend Skills](https://github.com/elladarte/AceleraDev_Python/tree/master/Modulo%204/desafio_backend_skills)
 - Protocolos de comunicação (HTTP, TCP, UDP, SOCKET)
 - Conceitos básicos de arquitetura distribuída
 - Conceitos básicos sobre segurança em APIs e aplicações web.
