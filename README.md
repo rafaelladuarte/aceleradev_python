@@ -49,7 +49,7 @@ a tecnologia abordada referiu-se ao desenvolvivento Backend em Python.
 - Conceitos básicos sobre segurança em APIs e aplicações web.
 - Autenticação
 - Tokens JWT
-### [Modulo 5](https://github.com/elladarte/AceleraDev_Python/tree/master/Modulo%205)
+### [Modulo 5](https://github.com/elladarte/AceleraDev_Python/tree/master/Modulo%205) :heavy_check_mark:
 [Desafio Data Design](https://github.com/elladarte/AceleraDev_Python/tree/master/Modulo%205/desafio_data_design)
 - Models
 - Urls
