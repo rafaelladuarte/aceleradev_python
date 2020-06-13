@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?><testsuite errors="1" failures="0" name="pytest" skips="0" tests="1" time="0.666"><testcase classname="" file="test_submit.py" name="test_submit" time="0"><error message="collection failure">test_submit.py:4: in &lt;module&gt;
-    django.setup()
-..\..\Anaconda3\lib\site-packages\django\__init__.py:24: in setup
-    apps.populate(settings.INSTALLED_APPS)
-..\..\Anaconda3\lib\site-packages\django\apps\registry.py:114: in populate
-    app_config.import_models()
-..\..\Anaconda3\lib\site-packages\django\apps\config.py:211: in import_models
-    self.models_module = import_module(models_module_name)
-..\..\Anaconda3\lib\importlib\__init__.py:126: in import_module
-    return _bootstrap._gcd_import(name[level:], package, level)
-api\models.py:4: in &lt;module&gt;
-    class User(models.Model):
-api\models.py:5: in User
-    raise NotImplementedError
-E   NotImplementedError</error></testcase></testsuite>
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="0" failures="0" name="pytest" skips="0" tests="6" time="0.715"><testcase classname="test_submit.TestChallenge9" file="test_submit.py" line="22" name="test_agent" time="0.012964010238647461"></testcase><testcase classname="test_submit.TestChallenge9" file="test_submit.py" line="30" name="test_event" time="0.004987001419067383"></testcase><testcase classname="test_submit.TestChallenge9" file="test_submit.py" line="38" name="test_event1" time="0.003985881805419922"></testcase><testcase classname="test_submit.TestChallenge9" file="test_submit.py" line="26" name="test_group" time="0.0029916763305664062"></testcase><testcase classname="test_submit.TestChallenge9" file="test_submit.py" line="17" name="test_user" time="0.00393986701965332"></testcase><testcase classname="test_submit.TestChallenge9" file="test_submit.py" line="42" name="test_user_group" time="0.003953218460083008"></testcase></testsuite>

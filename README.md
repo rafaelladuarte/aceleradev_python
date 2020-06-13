@@ -50,6 +50,13 @@ a tecnologia abordada referiu-se ao desenvolvivento Backend em Python.
 - Autenticação
 - Tokens JWT
 ### [Modulo 5](https://github.com/elladarte/AceleraDev_Python/tree/master/Modulo%205)
+[Desafio Data Design](https://github.com/elladarte/AceleraDev_Python/tree/master/Modulo%205/desafio_data_design)
+- Models
+- Urls
+- Views
+- Settings
+- Validações
+- Middlewares
 ### Modulo 6
 ### Modulo 7
 ### Modulo 8
