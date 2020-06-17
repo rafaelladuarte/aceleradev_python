@@ -58,7 +58,7 @@ a tecnologia abordada referiu-se ao desenvolvivento Backend em Python.
 - Validações
 - Middlewares
 ### [Modulo 6](https://github.com/elladarte/AceleraDev_Python/tree/master/Modulo%206)
-[Desafio REST API]()
+[Desafio REST API](https://github.com/elladarte/AceleraDev_Python/tree/master/Modulo%206/desafio_REST_API)
 - Django Rest Framework
 - Serialization
 - Requests and responses
