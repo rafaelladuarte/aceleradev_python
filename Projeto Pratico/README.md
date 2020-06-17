@@ -36,41 +36,41 @@ no desenvolvimento.
 ### Cadastro
 
 <p align="center">
-<img src=""/>
+<img src="https://github.com/elladarte/AceleraDev_Python/blob/master/Projeto%20Pratico/Wireframes%20Exemplos/1-cadastro.png"/>
 </p>
 
 ### Login
 
 <p align="center">
-<img src=""/>
+<img src="https://github.com/elladarte/AceleraDev_Python/blob/master/Projeto%20Pratico/Wireframes%20Exemplos/2-login.png"/>
 </p>
 
 ### Dashboard
 
 <p align="center">
-<img src=""/>
+<img src="https://github.com/elladarte/AceleraDev_Python/blob/master/Projeto%20Pratico/Wireframes%20Exemplos/3-dashboard.png"/>
 </p>
 
 ### Ambientes
 
 <p align="center">
-<img src=""/>
+<img src="https://github.com/elladarte/AceleraDev_Python/blob/master/Projeto%20Pratico/Wireframes%20Exemplos/4-ambientes.png"/>
 </p>
 
 ### Order
 
 <p align="center">
-<img src=""/>
+<img src="https://github.com/elladarte/AceleraDev_Python/blob/master/Projeto%20Pratico/Wireframes%20Exemplos/5-order.png"/>
 </p>
 
 ### Filtro
 
 <p align="center">
-<img src=""/>
+<img src="https://github.com/elladarte/AceleraDev_Python/blob/master/Projeto%20Pratico/Wireframes%20Exemplos/6-filtro.png"/>
 </p>
 
 ### Detalhes
 
 <p align="center">
-<img src=""/>
+<img src="https://github.com/elladarte/AceleraDev_Python/blob/master/Projeto%20Pratico/Wireframes%20Exemplos/7-detalhes.png"/>
 </p>
