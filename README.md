@@ -57,14 +57,16 @@ a tecnologia abordada referiu-se ao desenvolvivento Backend em Python.
 - Settings
 - Validações
 - Middlewares
-### [Modulo 6](https://github.com/elladarte/AceleraDev_Python/tree/master/Modulo%206)
+### [Modulo 6](https://github.com/elladarte/AceleraDev_Python/tree/master/Modulo%206) :heavy_check_mark:
 [Desafio REST API](https://github.com/elladarte/AceleraDev_Python/tree/master/Modulo%206/desafio_REST_API)
 - Django Rest Framework
 - Serialization
 - Requests and responses
 - Function based views
 - Viewsets and route
-### Modulo 7
+### [Modulo 7]()
+[Desafio ORM Query]()
+- Uso correto do ORM do Django
 ### Modulo 8
 ### Modulo 9
 ### Modulo 10
