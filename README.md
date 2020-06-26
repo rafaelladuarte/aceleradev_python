@@ -64,8 +64,8 @@ a tecnologia abordada referiu-se ao desenvolvivento Backend em Python.
 - Requests and responses
 - Function based views
 - Viewsets and route
-### [Modulo 7]()
-[Desafio ORM Query]()
+### [Modulo 7](https://github.com/elladarte/AceleraDev_Python/tree/master/Modulo%207) :heavy_check_mark:
+[Desafio ORM Query](https://github.com/elladarte/AceleraDev_Python/tree/master/Modulo%207/Desafio_ORM_Query)
 - Uso correto do ORM do Django
 ### Modulo 8
 ### Modulo 9
