@@ -67,7 +67,11 @@ a tecnologia abordada referiu-se ao desenvolvivento Backend em Python.
 ### [Modulo 7](https://github.com/elladarte/AceleraDev_Python/tree/master/Modulo%207) :heavy_check_mark:
 [Desafio ORM Query](https://github.com/elladarte/AceleraDev_Python/tree/master/Modulo%207/Desafio_ORM_Query)
 - Uso correto do ORM do Django
-### Modulo 8
+### [Modulo 8](https://github.com/elladarte/AceleraDev_Python/tree/master/Modulo%208)
+[Desafio RESTful API Modeling Language (RAML)](https://github.com/elladarte/AceleraDev_Python/tree/master/Modulo%208/desafio_RAML)
+- Design de API
+- Especificação RAML 1.0
+- Conceitos sobre REST
 ### Modulo 9
 ### Modulo 10
 ### Projeto Pratico
