@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/static/v1?label=Status&message=Em_andamento&color=purple&style=for-the-badge"/>
+<img src="https://img.shields.io/static/v1?label=Status&message=Concluido&color=green&style=for-the-badge"/>
 </p>
 
 ## Descrição
@@ -67,14 +67,18 @@ a tecnologia abordada referiu-se ao desenvolvivento Backend em Python.
 ### [Modulo 7](https://github.com/elladarte/AceleraDev_Python/tree/master/Modulo%207) :heavy_check_mark:
 [Desafio ORM Query](https://github.com/elladarte/AceleraDev_Python/tree/master/Modulo%207/Desafio_ORM_Query)
 - Uso correto do ORM do Django
-### [Modulo 8](https://github.com/elladarte/AceleraDev_Python/tree/master/Modulo%208)
+### [Modulo 8](https://github.com/elladarte/AceleraDev_Python/tree/master/Modulo%208) :heavy_check_mark:
 [Desafio RESTful API Modeling Language (RAML)](https://github.com/elladarte/AceleraDev_Python/tree/master/Modulo%208/desafio_RAML)
 - Design de API
 - Especificação RAML 1.0
 - Conceitos sobre REST
-### Modulo 9
-### Modulo 10
-### Projeto Pratico
+### [Modulo 9](https://github.com/elladarte/AceleraDev_Python/tree/master/Modulo%209) :heavy_check_mark:
+[Desafio Continuous integration](https://github.com/elladarte/AceleraDev_Python/tree/master/Modulo%209/dessafio_continuous_integration)
+- Conceitos de integração contínua
+- Configuração Travis CI
+### Modulo 10 
+- Projeto Final e Apresentação
+### [Projeto Pratico](https://github.com/elladarte/AceleraDev_Python/tree/master/Projeto%20Pratico)
 Central de Erros
 - API
 - Projetos
